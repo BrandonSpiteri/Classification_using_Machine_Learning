@@ -15,6 +15,14 @@ Performance is reported using:
 
 Given the nature of the classification problem, the prediction is optimised using AUC-ROC metric. 
 
-Summarised Results:
+# Summarised Results:
 
+| Model  | AUC-ROC |
+| ------------- | ------------- | 
+| k-Nearest Neighbour		  | 0.911	 | 
+| Perceptron		| 0.778	 |
+| Gaussian Naïve Bayes		| 0.742	  |
+| Logistic Regression		| 0.804	 |
+| Linear SVM		| 0.800	 |
+| Kernelized SVM		| 0.932		 |
 
